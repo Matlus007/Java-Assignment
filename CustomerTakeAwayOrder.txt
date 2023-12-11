@@ -1,0 +1,57 @@
+T01
+Matlus
+018-1234567
+10/12/2023 06:59:41 am
+12.0
+Potato
+1
+5.0
+Fish and Chip
+1
+7.0
+
+T02
+Matlus
+018-1234567
+10/12/2023 07:00:15 am
+35.0
+Potato
+1
+5.0
+Beef Chop
+1
+20.0
+Chicken Chop
+1
+10.0
+
+T03
+Matlus
+018-1234567
+10/12/2023 10:00:58 am
+40.0
+Beef Chop
+1
+20.0
+French Fried
+2
+10.0
+
+T04
+Matlus
+018-1234567
+11/12/2023 06:49:36 am
+7.0
+Fish and Chip
+1
+7.0
+
+T05
+Matlus
+018-1234567
+11/12/2023 09:12:04 am
+7.0
+Fish and Chip
+1
+7.0
+

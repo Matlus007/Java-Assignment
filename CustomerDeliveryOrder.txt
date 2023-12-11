@@ -1,0 +1,48 @@
+J01
+Matlus
+018-1234567
+10/12/2023 06:59:56 am
+aaa
+35.0
+French Fried
+1
+10.0
+Goat Chop
+1
+15.0
+Chicken Chop
+1
+10.0
+
+J02
+Matlus
+018-1234567
+10/12/2023 07:00:29 am
+bbb
+32.0
+French Fried
+1
+10.0
+Goat Chop
+1
+15.0
+Fish and Chip
+1
+7.0
+
+J03
+Matlus
+018-1234567
+10/12/2023 09:27:47 am
+aaa
+22.0
+Potato
+1
+5.0
+Chicken Chop
+1
+10.0
+Fish and Chip
+1
+7.0
+

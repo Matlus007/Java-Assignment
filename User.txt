@@ -1,0 +1,63 @@
+09/12/2023 02:32:02 PM
+Customer
+Tp001
+Ng Qi Hao
+aaaa
+011-1234567
+
+09/12/2023 02:32:22 PM
+Customer
+Tp002
+Han Xiao Shan
+bbbb
+012-1234567
+
+09/12/2023 02:32:43 PM
+Customer
+Tp003
+Wong Xiao Xiang
+cccc
+013-1234567
+
+09/12/2023 02:33:10 PM
+Vendor
+V01
+Lee Teck Kuan
+hhhh
+014-1234567
+
+09/12/2023 02:33:51 PM
+Vendor
+V02
+Pang Wei Jie
+iiii
+015-1234567
+
+09/12/2023 02:35:23 PM
+Runner
+R01
+Choo Yu Hen
+pppp
+016-1234567
+
+09/12/2023 02:35:51 PM
+Runner
+R02
+Tan Yi Qian
+qqqq
+017-1234567
+
+10/12/2023 04:54:16 PM
+Customer
+Tp004
+hhd
+1111
+018-3829899
+
+10/12/2023 05:39:54 PM
+Customer
+Tp005
+hsw
+2222
+990-0111237
+

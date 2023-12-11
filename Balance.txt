@@ -1,0 +1,24 @@
+Tp003
+Wong Xiao Xiang
+0.0
+
+Tp002
+Han Xiao Shan
+0.0
+
+Tp001
+Ng Qi Hao
+100.0
+
+Tp006
+ltk
+0.0
+
+Tp005
+Matlus
+80.0
+
+Tp004
+hhd
+0.0
+
